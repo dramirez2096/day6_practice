@@ -1,0 +1,27 @@
+body{
+  background-color: #2B2A29;
+}
+.list-container{
+  height: 300px;
+  width: 400px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+ul{
+  list-style: none;
+}
+li{
+  margin: 30px;
+}
+.btn{
+  color: #fff;
+  background-color: #2B2A29;
+  border: 3px solid #fff;
+  font-size: 30px;
+  padding: 5px 20px;
+}
+.btn:hover{
+  cursor: pointer;
+  background-color: #000;
+}
